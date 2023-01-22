@@ -47,14 +47,14 @@ const Intro = () => {
             <img src={Github} alt="" />
           </a>
           <a
-            href="https://www.linkedin.com/in/naiyem-hossain-a94b961a2/"
+            href="https://www.facebook.com/MuhammadNaiyemHossain/"
             target="_blank"
             rel="noopener noreferrer"
           >
           <img src={LinkedIn} alt="" />
           </a>
           <a
-            href="https://www.facebook.com/profile.php?id=100005953965379"
+            href="https://www.instagram.com/leonaiyem/"
             target="_blank"
             rel="noopener noreferrer"
           >

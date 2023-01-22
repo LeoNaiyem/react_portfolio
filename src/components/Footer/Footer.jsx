@@ -12,10 +12,27 @@ const Footer = () => {
       <div className="f-content">
         <span>mdnaiyem.islam.10@gmail.com</span>
         <div className="f-icons">
-          <Insta color="white" size={"3rem"} />
+          <a
+            href="https://www.instagram.com/leonaiyem/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <Insta color="white" size={"3rem"} />
+          </a>
+          <a
+            href="https://www.facebook.com/MuhammadNaiyemHossain/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
           <Facebook color="white" size={"3rem"} />
+          </a>
+          <a
+            href="https://github.com/leonaiyem"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
           <Gitub color="white" size={"3rem"} />
-          
+          </a>
         </div>
       </div>
     </div>
